@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://koksalmis.github.io/">Blog</a> •
   <a href="https://twitter.com/eneskoksalmis">Twitter</a> •
-  <a href="https://www.linkedin.com/in/koksalmis/">Linked In</a>
+  <a href="https://www.linkedin.com/in/koksalmis/">LinkedIn</a>
 </p>
 
 <p align="center">
