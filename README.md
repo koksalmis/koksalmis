@@ -10,7 +10,7 @@
 </p>
 
 - 🔭 I’m currently working on a **Payment System at Garanti BBVA Techonology in Turkey**
-- 🌱 I’m currently learning **Kubernetes, Docker, Microservice Architecture**
+- 🌱 I’m currently learning **System Design Best Practices, Microservice Architecture, Kubernetes, Docker**
 - 📫 How to reach me: [@eneskoksalmis](https://twitter.com/eneskoksalmis) on Twitter or :email: koksalmis at gmail dot com
 
 <!--
