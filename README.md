@@ -8,7 +8,7 @@
   <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </p>
 
-- 🔭 I’m currently working at a **<a href="https://tompay.com.tr/">TOM PAY</a>**
+- 🔭 I’m currently working at **<a href="https://tompay.com.tr/">TOM PAY</a>**
 - 🌱 I’m currently learning **System Design Best Practices, Microservice Architecture, Kubernetes, Docker**
 - 📫 How to reach me: [@eneskoksalmis](https://twitter.com/eneskoksalmis) on Twitter or :email: koksalmis at gmail dot com
 
