@@ -1,15 +1,14 @@
 <h2 align="center">👋 Hello! I'm Enes</h2>
 <p align="center">
-  <a href="https://koksalmis.github.io/">Blog</a> •
+  <a href="http://koksalmis.com/">Blog</a> •
   <a href="https://twitter.com/eneskoksalmis">Twitter</a> •
   <a href="https://www.linkedin.com/in/koksalmis/">LinkedIn</a>
 </p>
-
 <p align="center">
   <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </p>
 
-- 🔭 I’m currently working on a **Payment System at Garanti BBVA Techonology in Turkey**
+- 🔭 I’m currently working at a **<a href="https://tompay.com.tr/">TOM PAY</a>**
 - 🌱 I’m currently learning **System Design Best Practices, Microservice Architecture, Kubernetes, Docker**
 - 📫 How to reach me: [@eneskoksalmis](https://twitter.com/eneskoksalmis) on Twitter or :email: koksalmis at gmail dot com
 
